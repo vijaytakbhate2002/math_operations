@@ -1,0 +1,9 @@
+include .py
+include package_building\config\config.py
+include package_building\operations\add.py
+include package_building\operations\sub.py
+include package_building\math.py
+
+exclude package_building\operations\demo.py
+recursive exclude *.csv
+exclude env

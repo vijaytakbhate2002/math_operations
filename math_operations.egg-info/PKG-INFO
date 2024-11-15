@@ -1,3 +1,22 @@
+Metadata-Version: 2.1
+Name: math_operations
+Version: 1.0.0
+Summary: addition and subtractions
+Home-page: https://github.com/vijaytakbhate2002/math_operations.git
+Author: Vijay Dipak Takbhate
+Author-email: vijaytakbhate20@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==2.1.3
+Requires-Dist: setuptools==75.5.0
+
 ### README.md  
 
 # Twitter Post Sentiment Prediction - NLP  

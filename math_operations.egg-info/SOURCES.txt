@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+math_operations.egg-info/PKG-INFO
+math_operations.egg-info/SOURCES.txt
+math_operations.egg-info/dependency_links.txt
+math_operations.egg-info/requires.txt
+math_operations.egg-info/top_level.txt
+package_building/math.py
+package_building/config/config.py
+package_building/operations/add.py
+package_building/operations/sub.py
